@@ -1,0 +1,1 @@
+Code to calculate minimum monthly payment to pay off a credit card debt in one year.
